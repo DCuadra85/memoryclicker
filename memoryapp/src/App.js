@@ -1,12 +1,19 @@
 import React from "react";
 import FriendCard from "./components/FriendCard";
+import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import friends from "./friends.json";
+
 import "./App.css";
 
 function App() {
   return (
+    <Navbar>
+
+    
+
     <Wrapper>
+      {/* <Navbar /> */}
       <h1 className="title">Friends List</h1>
       <FriendCard
         name={friends[0].name}
@@ -27,6 +34,7 @@ function App() {
         location={friends[2].location}
       />
     </Wrapper>
+    </Navbar>
   );
 }
 
