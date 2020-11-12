@@ -1,50 +1,74 @@
 [
   {
     "id": 1,
-    "image": "./images/billy.jpg"
+    "name": "Billy",
+    "image": "./images/billy.jpg",
+    "clicked": false
   },
   {
     "id": 2,
-    "image": "./images/brock.jpg"
+    "name": "Brock",
+    "image": "./images/brock.jpg",
+    "clicked": false
   },
   {
     "id": 3,
-    "image": "./images/dean.jpg"
+    "name": "Dean",
+    "image": "./images/dean.jpg",
+    "clicked": false
   },
   {
     "id": 4,
-    "image": "./components/images/Drgirlfriend.jpg"
+    "name": "Drgirlfriend",
+    "image": "./images/drgirlfriend.jpg",
+    "clicked": false
   },
   {
     "id": 5,
-    "image": "brock"
+    "name": "Drventure",
+    "image": "./images/drventure.jpg",
+    "clicked": false
   },
   {
     "id": 6,
-    "image": "brock"
+    "name": "Hank",
+    "image": "./images/hank.jpg",
+    "clicked": false
   },
   {
     "id": 7,
-    "image": "brock"
+    "name": "Hatred",
+    "image": "./images/hatred.jpg",
+    "clicked": false
   },
   {
     "id": 8,
-    "image": "brock"
+    "name": "Henchman",
+    "image": "./images/henchman.jpg",
+    "clicked": false
   },
   {
     "id": 9,
-    "image": "brock"
+    "name": "Jonasventure",
+    "image": "./images/jonasventure.jpg",
+    "clicked": false
   },
   {
     "id": 10,
-    "image": "brock"
+    "name": "Monarch",
+    "image": "./images/monarch.jpg",
+    "clicked": false
   },
   {
     "id": 11,
-    "image": "brock"
+    "name": "Orpheus",
+    "image": "./images/orpheus.jpg",
+    "clicked": false
   },
   {
     "id": 12,
-    "image": "brock"
+    "name": "White",
+    "image": "./images/white.jpg",
+    "clicked": false
   }
 ]
