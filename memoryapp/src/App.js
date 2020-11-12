@@ -8,11 +8,17 @@ import "./App.css";
 
 function App() {
   return (
-    <Navbar>
+    
 
     
 
     <Wrapper>
+      <div>
+      <Navbar 
+      
+      />
+
+      </div>
       {/* <Navbar /> */}
       <h1 className="title">Friends List</h1>
       <FriendCard
@@ -34,7 +40,7 @@ function App() {
         location={friends[2].location}
       />
     </Wrapper>
-    </Navbar>
+    
   );
 }
 
