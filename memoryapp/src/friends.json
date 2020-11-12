@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "image": "./components/images/billy.jpg"
+    "image": "./images/billy.jpg"
   },
   {
     "id": 2,
-    "image": "./components/images/brock.jpg"
+    "image": "./images/brock.jpg"
   },
   {
     "id": 3,
-    "image": "./components/images/dean.jpg"
+    "image": "./images/dean.jpg"
   },
   {
     "id": 4,
